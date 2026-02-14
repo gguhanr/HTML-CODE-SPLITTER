@@ -4,6 +4,11 @@ HTML Code Splitter is a simple browser-based tool that separates a single HTML f
 * npm install  
 * npm run dev
 
-### Demo Link : https://html-code-splitter-s6t3.onrender.com/
+### Demo Link : 
+https://html-code-splitter-s6t3.onrender.com/
 
-### FAST LOADING DEMO LINK : https://gguhanr.neocities.org/Guhan/g1
+### FAST LOADING DEMO LINK :
+https://gguhanr.neocities.org/Guhan/g1
+
+## HTML SOURCE CODE VIEWER
+Use to Source code view and download use this code.
