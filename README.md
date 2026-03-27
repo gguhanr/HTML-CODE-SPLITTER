@@ -8,7 +8,7 @@ HTML Code Splitter is a simple browser-based tool that separates a single HTML f
 https://html-code-splitter-s6t3.onrender.com/
 
 ### FAST LOADING DEMO LINK :
-https://gguhanr.neocities.org/Guhan/g1
+https://gguhanr.neocities.org/project/html%20code%20spliter/In%20(4)
 
 ## HTML SOURCE CODE VIEWER
 Use to Source code view and download use this code.
